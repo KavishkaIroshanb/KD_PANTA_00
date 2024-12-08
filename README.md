@@ -21,6 +21,12 @@
 
 
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF0000&width=435&lines=%F0%9D%97%9E+%F0%9D%97%97+_+%F0%9D%97%A3+%F0%9D%97%94+%F0%9D%97%A1+%F0%9D%97%A7+%F0%9D%97%94+_+%F0%9D%97%A0+%F0%9D%97%97" alt="Typing SVG" /></a>
+
+
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center"> 
 
