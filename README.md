@@ -34,8 +34,8 @@
 
 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘👨‍💻
 
-<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
-<p/>
+<a href="https://github.com/VajiraTech/VAJIRA_MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+</br>
 
 
 
