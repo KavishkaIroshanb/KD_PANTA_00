@@ -12,7 +12,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 const cap = `
-> *ALIVE_KD_PANTA_00*
+ *ALIVE_KD_PANTA_00_MD*
 *╭────────────────╮*
 *📌𝗡𝗶𝗰𝗲 𝗧𝗼 𝗠𝗲𝗮𝘁 𝘆𝗼𝘂*
 *╰────────────────╯*
@@ -27,10 +27,10 @@ const cap = `
 *╭────────────────⊶*
 *🤖: ᴏᴡɴᴇʀ :¢ontact👨‍💻*
 
-*https://wa.me/+94776114551?text=ʜᴇʏ_𝚔𝚊𝚟𝚒𝚜𝚑𝚔𝚊*
+*https://wa.me/+94776114551?text=HI_KAVISHKA*
 *╰────────────────⊶*
 *╭────────────────⊶*
-> *KD_PANTA_00_MD *
+> *KD_PANTA_00_MD*
 *╰────────────────⊶*`
 
     
