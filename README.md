@@ -29,8 +29,6 @@
 
 <a href="https://chat.whatsapp.com/GvR2hfJ42mO9HNwuFJVax6"><img alt="JOIN MY WHATSAPP BOT GROUP KD_PANTA_00" width="300"></a>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<p align="center">
 
 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘👨‍💻
 
