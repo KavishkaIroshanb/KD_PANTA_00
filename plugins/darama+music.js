@@ -125,8 +125,8 @@ let msg = `
 await conn.sendMessage( from, { image: { url:`${data.result.image}`}, caption: msg }, { quoted: mek })	
 await conn.sendMessage(from, { react: { text: '📥', key: mek.key }})
 await conn.sendMessage(from, { document: { url: q }, mimetype: 'audio/mpeg', fileName: 'TikTok Audio' + '.mp3',caption: "KD_PANTA_00" }, { quoted: mek })
-await conn.sendMessage(from, { video: { url: data.result.dl_link.download_mp4_1}, mimetype: "video/mp4", caption: `SD QUALITY\n\n> *POWERED by KD_PANTA_00-MD` }, { quoted: mek })	
-await conn.sendMessage(from, { video: { url: data.result.dl_link.download_mp4_2 }, mimetype: "video/mp4", caption: `HD QUALITY\n\n> *POWERED by KD_PANTA_00-MD` }, { quoted: mek })  
+await conn.sendMessage(from, { video: { url: data.result.dl_link.download_mp4_1}, mimetype: "video/mp4", caption: `SD QUALITY\n\n> *POWERED by KD_PANTA_00-MD*` }, { quoted: mek })	
+await conn.sendMessage(from, { video: { url: data.result.dl_link.download_mp4_2 }, mimetype: "video/mp4", caption: `HD QUALITY\n\n> *POWERED by KD_PANTA_00-MD*` }, { quoted: mek })  
 	
 await conn.sendMessage(from, { react: { text: '✔', key: mek.key }})
 } catch (e) {
