@@ -98,7 +98,7 @@ let up = `
 *•────────────•⟢*
 > *© POWER BY KD PANTA*
 *•────────────•⟢*
-`;
+`
 conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
 
 }
