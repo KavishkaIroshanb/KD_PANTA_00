@@ -53,7 +53,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING KD PANTA 00 MD 👨‍💻");
+console.log("CONNECTING SILENT SOBOX MD BOT ♻️");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
