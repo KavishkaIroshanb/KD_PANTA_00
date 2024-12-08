@@ -82,7 +82,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "OWNER_REACT": {
