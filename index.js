@@ -53,7 +53,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING SILENT SOBOX MD BOT ♻️");
+console.log("CONNECTING KD PANTA 00 MD BOT ♻️");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -73,15 +73,15 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('♻️ INSTALLING PLUGINS FILES PLEASE WAIT... 🪄')
+console.log('INSTALLING PLUGINS FILES PLEASE WAIT 💬')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('KD PANTA 00 MD BOT CONNECTED 📲')
+console.log('PLUGINS FILES INSTALL SUCCESSFULLY ♻️')
+console.log('KD PANTA 00 MD BOT CONNECTED ✅')
 
 let up = `
 *KD_PANTA_00_MD BOT CONNECTED 🔛*
@@ -98,7 +98,7 @@ let up = `
 *•────────────•⟢*
 > *© POWER BY KD PANTA*
 *•────────────•⟢*
-`
+`;
 conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
 
 }
