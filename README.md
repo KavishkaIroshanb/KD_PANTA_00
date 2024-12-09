@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://lithu-md-pair-13dc62a31d33.herokuapp.com/" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<p align="center">
+<a href="https://lithu-md-pair-13dc62a31d33.herokuapp.com/">
 
 
 <p align="center">
