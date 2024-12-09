@@ -80,26 +80,26 @@ if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('PLUGINS FILES INSTALL SUCCESSFULLY ♻️')
+console.log('PLUGINS FILES INSTALL SUCCESSFULLY 🔐')
 console.log('KD PANTA 00 MD BOT CONNECTED ✅')
 
 let up = `
-*KD_PANTA_00_MD BOT CONNECTED 🔛*
+*KD_PANTA_00_MD BOT CONNECTED...✅*
 
-*💬 𝙹𝙾𝙸𝙽𝙴 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿 :*
-*╭┈───────────────•*
-*│ ♻️URL:* *https://chat.whatsapp.com/GvR2hfJ42mO9HNwuFJVax6*
-*╰┈───────────────•*
-*📲 𝚁𝙴𝙿𝙾 :*
-*╭┈───────────────•*
-*│♻️URL:* *https://github.com/KavishkaIroshanb/KD_PANTA_00/tree/main*
-*╰┈───────────────•*
+*🌀 𝙹𝙾𝙸𝙽𝙴 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿 :*
+*╭┈───────────╴╴╴╴•⟢*
+*│URL:* *https://chat.whatsapp.com/GvR2hfJ42mO9HNwuFJVax6*
+*╰┈───────────╴╴╴╴•⟢*
+*🌀 𝚁𝙴𝙿𝙾 :*
+*╭┈───────────╴╴╴╴•⟢*
+*│URL:* *https://github.com/KavishkaIroshanb/KD_PANTA_00/tree/main*
+*╰┈───────────╴╴╴╴•⟢*
 
-*•────────────•⟢*
+*•────────────╴╴╴╴•⟢*
 > *© POWER BY KD PANTA*
-*•────────────•⟢*
+*•────────────╴╴╴╴•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://pomf2.lain.la/f/fxhw0z8c.jpg` }, caption: up })
 
 }
 })
