@@ -38,11 +38,13 @@
 
 <a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img alt="JOIN MY WHATSAPP CHANNEL KD_PANTA_00" width="300"></a>
 
-____________________________//_____________________________//_____________________________
+____________________________//
 
 𝗠𝗬 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣🤖
 
 <a href="https://chat.whatsapp.com/GvR2hfJ42mO9HNwuFJVax6"><img alt="JOIN MY WHATSAPP BOT GROUP KD_PANTA_00" width="300"></a>
+
+____________________________//
 
 
 👨‍💻 𝗢 𝗪 𝗡 𝗘 𝗥 _ 𝗡 𝗨 𝗠 𝗕 𝗘 𝗥 ☎️
