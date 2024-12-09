@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<a href="https://vajiraqrveb-1d064bcd8502.herokuapp.com/">
+<img src="https://lithu-md-pair-13dc62a31d33.herokuapp.com/" height="90" width="100%">
 
 
 <p align="center">
@@ -36,7 +35,7 @@
 
 𝗠𝗬 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟♻️
 
-<a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img alt="JOIN MY WHATSAPP CANNEL KD_PANTA_00" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img alt="JOIN MY WHATSAPP CHANNEL KD_PANTA_00" width="300"></a>
 
 
 
