@@ -59,7 +59,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-👨‍💻 𝗢 𝗪 𝗡 𝗘 𝗥 _ 𝗖 𝗢 𝗡 𝗧 𝗔 𝗖 𝗧 ☎️(👇)
+👨‍💻 𝗢 𝗪 𝗡 𝗘 𝗥 _ 𝗡 𝗨 𝗠 𝗕 𝗘 𝗥 ☎️
 
   <a href="https://wa.me/+94776114551?text=𝗛𝗘𝗬_𝗞𝗗_𝗣𝗔𝗡𝗧𝗔*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
