@@ -32,7 +32,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center"> 
 
-<hr>
+<h>
 
 𝗠𝗬 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟♻️
 
