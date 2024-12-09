@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<p align="center">
-<a href="https://lithu-md-pair-13dc62a31d33.herokuapp.com/">
+
 
 
 <p align="center">
@@ -54,7 +53,7 @@
 
 🧑‍💻𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗠𝗬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧📲
 
-<a href="https://wa.me/+94776114551?text=send_me_pire_code"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="<a href="https://lithu-md-pair-13dc62a31d33.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 
 
