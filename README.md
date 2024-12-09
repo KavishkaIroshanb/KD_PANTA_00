@@ -65,8 +65,11 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-<hr>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+
+𝗖𝗢𝗣𝗬 𝗧𝗘𝗫𝗧 💬
 
 ```
 on:
