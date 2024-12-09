@@ -51,7 +51,7 @@
 
 
 
-🧑‍💻𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝗠𝗬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧📲
+🧑‍💻 𝗚 𝗘 𝗧 _ 𝗦 𝗘 𝗦 𝗦 𝗜 𝗢 𝗡 _ 𝗜 𝗗 📲
 
 <a href="https://lithu-md-pair-13dc62a31d33.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
