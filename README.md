@@ -38,13 +38,16 @@
 
 <a href="https://whatsapp.com/channel/0029VaxNSDR4SpkEoUszuP3E"><img alt="JOIN MY WHATSAPP CHANNEL KD_PANTA_00" width="300"></a>
 
-________________________________________//
+
+__________________________________________________________//
+
 
 𝗠𝗬 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣🤖
 
 <a href="https://chat.whatsapp.com/GvR2hfJ42mO9HNwuFJVax6"><img alt="JOIN MY WHATSAPP BOT GROUP KD_PANTA_00" width="300"></a>
 
-________________________________________//
+
+__________________________________________________________//
 
 
 👨‍💻 𝗢 𝗪 𝗡 𝗘 𝗥 _ 𝗡 𝗨 𝗠 𝗕 𝗘 𝗥 ☎️
@@ -52,7 +55,11 @@ ________________________________________//
   <a href="https://wa.me/+94776114551?text=𝗛𝗘𝗬_𝗞𝗗_𝗣𝗔𝗡𝗧𝗔*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-________________________________________//
+
+__________________________________________________________//
+
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
