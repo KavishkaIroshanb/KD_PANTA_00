@@ -61,6 +61,10 @@
 <p align="center">
 
 
+  <a href="https://wa.me/+94776114551?text=𝗛𝗘𝗬_𝗞𝗗_𝗣𝗔𝗡𝗧𝗔*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
 <hr>
 
 <b>𝗖𝗢𝗣𝗬 𝗖𝗢𝗗𝗘</b></br>
